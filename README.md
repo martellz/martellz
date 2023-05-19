@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### OSU
-https://osusig.lolico.moe/sig.php?colour=hexff66aa&uname=MmmushroomTz&pp=1&countryrank
+<img src="https://osusig.lolico.moe/sig.php?colour=hexff66aa&uname=MmmushroomTz&pp=1&countryrank" />
 
 ### small web
 http://pwp.ink
