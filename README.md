@@ -1,9 +1,17 @@
 ### Hi there 👋
 
-### OSU
+- 🔭 I’m currently working on OppenFuture
+- 🤔 I’m looking for help with future development.
+- 🔭 I mainly use: Python(for dl), Typescripts(for threejs for web demo), Kotlin(for android app).
+- 💬 Ask me about EVERYTHING!
+- 📫 How to reach me: https://space.bilibili.com/28663858
+- 😄 Pronouns: qwq!
+
+
+### ✨ OSU ✨
 <img src="https://osusig.lolico.moe/sig.php?colour=hexff66aa&uname=MmmushroomTz&pp=1&countryrank" />
 
-### small web
+### ✨ small blog ✨
 http://pwp.ink
 
 <!--
