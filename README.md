@@ -7,8 +7,6 @@
 - 📫 How to reach me: https://space.bilibili.com/28663858
 - 😄 Pronouns: qwq!
 
-# Skills
-
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Vite-2496ED?style=flat-square&logo=Vite&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
