@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### OSU
+https://osusig.lolico.moe/sig.php?colour=hexff66aa&uname=MmmushroomTz&pp=1&countryrank
+
+### small web
+http://pwp.ink
+
 <!--
 **martellz/martellz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
