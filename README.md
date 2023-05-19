@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on OppenFuture
 - 🤔 I’m looking for help with future development.
@@ -7,11 +7,19 @@
 - 📫 How to reach me: https://space.bilibili.com/28663858
 - 😄 Pronouns: qwq!
 
+# Skills
 
-### ✨ OSU ✨
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Vite-2496ED?style=flat-square&logo=Vite&logoColor=fff)
+![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Android-brightgreen?style=flat-square&logo=Android&logoColor=fff)
+
+
+# ✨ OSU ✨
 <img src="https://osusig.lolico.moe/sig.php?colour=hexff66aa&uname=MmmushroomTz&pp=1&countryrank" />
 
-### ✨ small blog ✨
+# ✨ small blog ✨
 http://pwp.ink
 
 <!--
