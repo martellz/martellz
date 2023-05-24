@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/-Typescript-2496ED?style=flat-square&logo=Typescript&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Android-brightgreen?style=flat-square&logo=Android&logoColor=fff)
-
+![](https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=Kotlin&logoColor=fff)
 
 # ✨ OSU ✨
 <a href="https://osu.ppy.sh/users/13343696"><img src="https://osusig.lolico.moe/sig.php?colour=hexff66aa&uname=MmmushroomTz&pp=1&countryrank"></a>
