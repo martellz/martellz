@@ -8,6 +8,7 @@
 - 😄 Pronouns: qwq!
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Pytorch-orange?style=flat-square&logo=Pytorch&logoColor=fff)
 ![](https://img.shields.io/badge/-Vite-2496ED?style=flat-square&logo=Vite&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Typescript-2496ED?style=flat-square&logo=Typescript&logoColor=fff)
