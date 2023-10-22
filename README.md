@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with future development.
 - 🔭 I mainly use: Python(for dl), Typescripts(for threejs for web demo), Kotlin(for android app).
 - 💬 Ask me about EVERYTHING!
-- 📫 How to reach me: https://space.bilibili.com/28663858
+- 📫 How to reach me: 286106782@qq.com or https://space.bilibili.com/28663858
 - 😄 Pronouns: qwq!
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
