@@ -20,7 +20,7 @@
 <a href="https://osu.ppy.sh/users/13343696"><img src="https://osusig.lolico.moe/sig.php?colour=hexff66aa&uname=MmmushroomTz&pp=1&countryrank"></a>
 
 # ✨ small blog ✨
-http://pwp.ink
+http://pwpwp.tech
 
 <!--
 **martellz/martellz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
