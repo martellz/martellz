@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on OppenFuture
 - 🤔 I’m looking for help with future development.
-- 🔭 I mainly use: Python(for dl), Typescripts(for threejs for web demo), Kotlin(for android app).
+- 🔭 I mainly use: Python(for dl), Typescripts(for threejs for web demo), C++(for building wasm), Kotlin(for android app).
 - 💬 Ask me about EVERYTHING!
 - 📫 How to reach me: 286106782@qq.com or https://space.bilibili.com/28663858
 - 😄 Pronouns: qwq!
