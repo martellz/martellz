@@ -1,8 +1,8 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on OppenFuture
+- 🔭 I’m currently working on Minieye in Wuhan.
 - 🤔 I’m looking for help with future development.
-- 🔭 I mainly use: Python(for dl), Typescripts(for threejs for web demo), C++(for building wasm), Kotlin(for android app).
+- 🔭 I mainly use: Python(for dl and api), Typescripts(for threejs for web demo), C++(for development and building wasm), Kotlin(for android app).
 - 💬 Ask me about EVERYTHING!
 - 📫 How to reach me: 286106782@qq.com or https://space.bilibili.com/28663858
 - 😄 Pronouns: qwq!
